@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @danspyer
 - 👀 I’m interested in creating beautiful looking websites with a powerful backend infrastructure that can influence the world!
 - 🌱 I’m currently learning React and .net6 while also looking to deploy these using docker.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me please reach out to me Via [LinkedIn](https://uk.linkedin.com/in/danspyer)! 
 
 <!---
